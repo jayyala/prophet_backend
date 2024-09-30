@@ -14,7 +14,7 @@ This project is a Django-based API for detecting and managing suspicious events 
 1. Clone the repository
 2. Install the required dependencies:
    ```
-   pip install django djangorestframework
+   pip install requirements.txt
    ```
 3. Run migrations:
    ```
